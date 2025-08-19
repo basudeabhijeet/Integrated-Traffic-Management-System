@@ -102,6 +102,3 @@ python app_v2.py
 ```
 
 This will start the Flask web server. You can then navigate to the provided URL (usually `http://127.0.0.1:5000`) in your web browser to access the application's dashboard.
-
----
-````
