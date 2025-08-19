@@ -1,0 +1,6 @@
+models/
+traffic_jam.txt
+*.pt
+*.mp4
+__pycache__/
+.env
